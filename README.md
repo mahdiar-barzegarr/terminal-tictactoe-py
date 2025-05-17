@@ -12,4 +12,4 @@ A simple two-player Tic Tac Toe (دوز) game written in Python. This game runs 
 Make sure you have Python installed.
 
 ```bash
-python tic_tac_toe.py
+tic_tac_toe.py
